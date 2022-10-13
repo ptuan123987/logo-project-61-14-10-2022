@@ -1,0 +1,15 @@
+.client {
+    margin: 30px auto;
+}
+
+.client h2 {
+    font-size: 35px;
+    font-weight: bold;
+    color: #FFCE1B;
+    padding: 24px 0 48px 0;
+}
+
+.client .client-list .info {
+    font-size: 16px;
+    font-style: italic;
+}
